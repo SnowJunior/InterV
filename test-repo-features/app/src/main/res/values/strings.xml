@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Test</string>
+    <string name="single">Single</string>
+    <string name="married">Married</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_height">Enter Height</string>
+    <string name="iq_test_rating">IQ test Rating</string>
+    <string name="add">Add</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="marital_status">Marital Status</string>
+    <string name="status">Status</string>
+    <string name="iq_rating">IQ rating</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="list">List</string>
+    <string name="register">Register</string>
+    <string name="view_list">View List</string>
+</resources>
